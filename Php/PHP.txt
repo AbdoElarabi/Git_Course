@@ -1,0 +1,7 @@
+void main()
+{
+  int x = 0,xy = 0;
+  int z = x + xy;
+
+  print(z);
+}
